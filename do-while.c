@@ -8,7 +8,7 @@ int main()
         sum += i;
         i++;
     }
-    while(i <= 100);
+    while(i <= 100);xiaoxiaosu
     printf("sum=%d.\n", sum);
-    
+    s
 }
